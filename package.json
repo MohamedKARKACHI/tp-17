@@ -1,0 +1,16 @@
+{
+  "name": "serialization-comparison",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Comparison of serialization formats",
+  "dependencies": {
+    "protobufjs": "^7.5.4",
+    "xml-js": "^1.6.11"
+  }
+}
