@@ -6,7 +6,7 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Karkachi Mohamed",
   "license": "ISC",
   "description": "Comparison of serialization formats",
   "dependencies": {
